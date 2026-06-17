@@ -1,34 +1,47 @@
 # Hi 👋, I'm Nase
 
-16 y/o developer building bots, websites, and security tools.
+> Building bots, websites, and security tools.
 
-- 🤖 Discord & Telegram bots
-- 🌐 Full-stack web development
-- 🎮 Roblox scripting
-- 🔒 Networking & security projects
+```text
+Discord Bots • Telegram Bots • Full-Stack Web Apps
+Networking • Cybersecurity • Roblox Development
+```
 
-## Languages & Tools
-
-<p>
-  <img src="icon/python.png" width="50">
-  <img src="icon/javascript.png" width="50">
-  <img src="icon/typescript.png" width="50">
-  <img src="icon/nodejs.png" width="50">
-  <img src="icon/flask.png" width="50">
-  <img src="icon/html.png" width="50">
-  <img src="icon/css3.png" width="50">
-  <img src="icon/linux.png" width="50">
-  <img src="icon/git.png" width="50">
-  <img src="icon/lua.png" width="50">
-  <img src="icon/docker.png" width="50">
+<p align="left">
+  <img src="icon/python.png" width="42">
+  <img src="icon/javascript.png" width="42">
+  <img src="icon/typescript.png" width="42">
+  <img src="icon/nodejs.png" width="42">
+  <img src="icon/flask.png" width="42">
+  <img src="icon/html.png" width="42">
+  <img src="icon/css3.png" width="42">
+  <img src="icon/linux.png" width="42">
+  <img src="icon/git.png" width="42">
+  <img src="icon/lua.png" width="42">
+  <img src="icon/docker.png" width="42">
 </p>
+
+## Current Focus
+
+* 🤖 Building Discord & Telegram bots
+* 🌐 Developing custom web applications
+* 🔒 Creating security and networking tools
+* ⚡ Learning by building real projects
+
+## Featured Projects
+
+* **PortScanner** — Multi-threaded TCP port scanner
+* **Security-Tools** — Collection of Python security utilities
 
 ## Connect
 
-🌐 https://nasedev.xyz
+🌐 nasedev.xyz
 
-📨 https://t.me/nasedev
+📨 t.me/nasedev
 
-## GitHub Stats
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=nasedev901&show_icons=true&theme=github_dark&hide_border=true">
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=nasedev901&show_icons=true&theme=github_dark&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasedev901&layout=compact&theme=github_dark&hide_border=true" />
+</p>
