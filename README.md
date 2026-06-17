@@ -1,4 +1,6 @@
-<img src="banner.png" width="100%">
+<p align="center">
+  <img src="banner.png" width="85%">
+</p>
 # nase
 
 developer focused on bots, web applications, automation, and security tooling.
