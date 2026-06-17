@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hey, I'm Nase 👋
 
-<!--
-**nasedev901/nasedev901** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a 16-year-old developer who enjoys building things on the internet.
 
-Here are some ideas to get you started:
+I mostly work on Discord bots, Telegram bots, and custom websites. I also do some Roblox scripting and occasionally build cybersecurity and networking tools for fun.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently learning Rust and exploring lower-level programming.
+
+## What I'm Working On
+
+- Discord bot development
+- Telegram bot development
+- Full-stack web projects
+- Roblox scripting
+- Security-related tools
+- Learning Rust
