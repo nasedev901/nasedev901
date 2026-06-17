@@ -1,14 +1,14 @@
 # nase
 
-building random things on the internet.
+```txt
+discord bots
+telegram bots
+web applications
+security tooling
+networking
+```
 
-> discord bots
-> telegram bots
-> custom websites
-> roblox scripting
-> security tools
-
-currently breaking things and figuring out how they work.
+16 y/o developer building things that solve problems.
 
 🌐 nasedev.xyz
 📨 t.me/nasedev
