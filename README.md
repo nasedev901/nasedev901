@@ -1,21 +1,29 @@
-<p align="center">
-  <img src="banner.png" width="75%">
+# Hi 👋, I'm Nase
+
+16 y/o developer building bots, websites, and security tools.
+
+- 🤖 Discord & Telegram bots
+- 🌐 Full-stack web development
+- 🎮 Roblox scripting
+- 🔒 Networking & security projects
+
+## Languages & Tools
+
+<p>
+  <img src="icon/python.png" width="50">
+  <img src="icon/javascript.png" width="50">
+  <img src="icon/typescript.png" width="50">
+  <img src="icon/nodejs.png" width="50">
+  <img src="icon/flask.png" width="50">
+  <img src="icon/html.png" width="50">
+  <img src="icon/css3.png" width="50">
+  <img src="icon/linux.png" width="50">
+  <img src="icon/git.png" width="50">
+  <img src="icon/lua.png" width="50">
+  <img src="icon/docker.png" width="50">
 </p>
 
-<h1 align="center">Hi 👋, I'm Nase</h1>
-
-<p align="center">
-  16 y/o developer building bots, websites, and security tools.
-</p>
-
----
-
-- 🤖 Building Discord & Telegram bots
-- 🌐 Developing custom websites
-- 🔒 Creating networking & security tools
-- 🎮 Scripting on Roblox
-
-### Connect with me
+## Connect
 
 🌐 https://nasedev.xyz
 
