@@ -1,20 +1,48 @@
+```md
 <p align="center">
-  <img src="banner.png" width="85%">
+  <img src="banner.png" width="75%">
 </p>
-# nase
 
-developer focused on bots, web applications, automation, and security tooling.
+<h1 align="center">nase</h1>
 
-i build discord and telegram bots, develop custom websites, and create tools related to networking and cybersecurity. when i'm not working on client projects or personal ideas, i'm usually experimenting with new technologies and building things that sound interesting.
+<p align="center">
+  developer focused on bots, web applications, automation, and security tooling.
+</p>
+
+---
+
+## what i do
+
+- 🤖 discord bots
+- 📨 telegram bots
+- 🌐 custom websites & web applications
+- 🔒 networking & security tools
+- 🎮 roblox scripting
 
 ## areas of interest
 
 - cybersecurity
 - networking
 - backend systems
-- web development
 - automation
 - reverse engineering
 
+## current projects
+
+- PortScanner
+- Security-Tools
+- Discord Bots
+- Telegram Bots
+
+## links
+
 🌐 https://nasedev.xyz
+
 📨 https://t.me/nasedev
+
+---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nasedev901&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+```
