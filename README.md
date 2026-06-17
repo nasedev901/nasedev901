@@ -28,11 +28,6 @@ Networking • Cybersecurity • Roblox Development
 * 🔒 Creating security and networking tools
 * ⚡ Learning by building real projects
 
-## Featured Projects
-
-* **PortScanner** — Multi-threaded TCP port scanner
-* **Security-Tools** — Collection of Python security utilities
-
 ## Connect
 
 🌐 nasedev.xyz
