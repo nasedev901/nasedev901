@@ -1,16 +1,14 @@
-# Hey, I'm Nase 👋
+# nase
 
-I'm a 16-year-old developer who enjoys building things on the internet.
+building random things on the internet.
 
-I mostly work on Discord bots, Telegram bots, and custom websites. I also do some Roblox scripting and occasionally build cybersecurity and networking tools for fun.
+> discord bots
+> telegram bots
+> custom websites
+> roblox scripting
+> security tools
 
-Currently learning Rust and exploring lower-level programming.
+currently breaking things and figuring out how they work.
 
-## What I'm Working On
-
-- Discord bot development
-- Telegram bot development
-- Full-stack web projects
-- Roblox scripting
-- Security-related tools
-- Learning Rust
+🌐 nasedev.xyz
+📨 t.me/nasedev
