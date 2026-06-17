@@ -3,8 +3,7 @@
 > 16 y/o developer building bots, websites, and security tools.
 
 <p align="center">
-Discord Bots • Telegram Bots • Full-Stack Web Apps<br>
-Networking • Cybersecurity • Roblox Development
+Tools i use 
 </p>
 
 <p align="left">
