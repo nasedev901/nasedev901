@@ -3,7 +3,7 @@
 > 16 y/o developer building bots, websites, and security tools.
 
 <p align="center">
-Tools i use 
+𝚃𝚘𝚘𝚕𝚜 𝚒 𝚞𝚜𝚎
 </p>
 
 <p align="left">
