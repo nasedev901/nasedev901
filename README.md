@@ -28,3 +28,7 @@
 🌐 https://nasedev.xyz
 
 📨 https://t.me/nasedev
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api?username=nasedev901&show_icons=true&theme=github_dark&hide_border=true">
