@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/nasedev901/nasedev901/main/banner.jpg" width="100%" alt="">
+<img src="https://raw.githubusercontent.com/nasedev901/nasedev901/main/long_banner.jpg" width="100%" alt="">
 
 <h1 align="center">Nase</h1>
 <p align="center">Web developer.</p>
