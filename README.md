@@ -1,8 +1,12 @@
-# Hi, I'm Nase 👋
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1c1c1c&height=140&section=header&text=NASE&fontColor=ffffff&fontSize=60" width="100%" />
 
-Web developer.
+```
+> nase.exe
+> web developer
+> builds fast. ships clean. says little.
 
-**Tools:** Python · JavaScript · TypeScript · Node.js · Flask · HTML/CSS · Lua · Docker · Git · Linux
+stack :: python · javascript · typescript · node · flask · lua · docker · linux
+```
 
 ## Projects
 - **[VOLT](https://github.com/nasedev901/VOLT)** - open-source configurator for the Redragon M711 mouse on Windows
