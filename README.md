@@ -1,15 +1,18 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1c1c1c&height=140&section=header&text=NASE&fontColor=ffffff&fontSize=60" width="100%" />
+<img src="banner.jpg" width="100%" alt="">
 
-```
-> nase.exe
-> web developer
-> builds fast. ships clean. says little.
+<p align="center">
+  <img src="https://github.com/nasedev901.png?size=200" width="110" alt="Nase">
+</p>
 
-stack :: python · javascript · typescript · node · flask · lua · docker · linux
-```
+<h1 align="center">Nase</h1>
+<p align="center">Web developer.</p>
+
+<p align="center">
+  <b>Stack:</b> Python · JavaScript · TypeScript · Node.js · Flask · HTML/CSS · Lua · Docker · Git · Linux
+</p>
 
 ## Projects
 - **[VOLT](https://github.com/nasedev901/VOLT)** - open-source configurator for the Redragon M711 mouse on Windows
 
 ## Contact
-[nasedev.xyz](https://nasedev.xyz) · [Telegram](https://t.me/nasedev)
+[nasedev.xyz](https://nasedev.xyz) · [nase.lol](https://nase.lol) · [Telegram](https://t.me/nasedev)
