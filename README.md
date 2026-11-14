@@ -1,8 +1,4 @@
-<img src="banner.jpg" width="100%" alt="">
-
-<p align="center">
-  <img src="https://github.com/nasedev901.png?size=200" width="110" alt="Nase">
-</p>
+<img src="https://raw.githubusercontent.com/nasedev901/nasedev901/main/banner.jpg" width="100%" alt="">
 
 <h1 align="center">Nase</h1>
 <p align="center">Web developer.</p>
@@ -15,4 +11,4 @@
 - **[VOLT](https://github.com/nasedev901/VOLT)** - open-source configurator for the Redragon M711 mouse on Windows
 
 ## Contact
-[nasedev.xyz](https://nasedev.xyz) · [nase.lol](https://nase.lol) · [Telegram](https://t.me/nasedev)
+[nase.lol](https://nase.lol) · [Telegram](https://t.me/nasedev)
